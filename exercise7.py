@@ -5,10 +5,10 @@ print ("Bienvenidos al Generador de contraseñas")
 chars= "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@$%#&*()^+.,?0123456789"
 
 number = input ("Cantidad de contraseña a generar:")
-number =int(number)
+number = int(number)
 
 length = input("Ingrese el largo de su contraseña: ")
-length= int (length)
+length = int (length)
 
 print ("\n Aca esta su contraseña: ")
 
